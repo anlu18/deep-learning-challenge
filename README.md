@@ -36,3 +36,5 @@ This project involved preparing a dataset containing information on over 34,000 
 - **Target Variable (y)**: `IS_SUCCESSFUL`, indicating whether an organization was successful in receiving funding.
 - **Data Splitting**: Data was split into training and testing sets to evaluate model performance.
 
+COMPILING, TRAINING, AND EVALUATING THE MODEL
+ - I was able to get around 72% accurancy with my model 
